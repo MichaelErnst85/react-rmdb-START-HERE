@@ -1,3 +1,11 @@
+This is a code along project found on Freecodecamp.org´s Youtube channel https://www.youtube.com/watch?v=nTeuhbP7wdE&t=7679s.
+Originally by Thomas Weibenfalk https://www.youtube.com/c/Weibenfalk/featured
+
+Added possibility to search for TV-series
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
